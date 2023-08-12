@@ -1,7 +1,7 @@
 ## Netflix-Account-Checker
 A simple Python Script for checking a list of accounts in a txt file.<br>
 The script checks the emails one by one.<br>
-Accounts that work will be displayed in a txt file called worksAcc.txt.<br>
+Accounts that work will be displayed in a txt file called Active.txt.<br>
 
 
 ## Instructions
