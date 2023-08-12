@@ -10,7 +10,7 @@ Create a combo list, and name it 'combo.txt' save it in the same directory as "n
 `pip install mechanize`. <br>
 
 ## Running script
-run `netflix.py`. <br>
+run `python netflix.py`. <br>
 
 Active Acounts will be saved in a file "Active.txt".<br>
 
