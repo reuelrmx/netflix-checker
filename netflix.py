@@ -10,7 +10,7 @@ def print_banner(rmxThePHREAK):
     print(banner)
     print(text)
 
-##import mechanize
+import mechanize
 import time
 
 print_banner('[+]---Netflix Account Checker v0.1---[+]')
