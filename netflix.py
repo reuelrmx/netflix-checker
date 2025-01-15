@@ -8,7 +8,7 @@ def print_banner(rmxThePHREAK):
 ╚═════╝░░╚════╝░╚═╝░░░░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝
     """
     print(banner)
-    print(text)
+    print(rmxThePHREAK)
 
 import mechanize
 import time
