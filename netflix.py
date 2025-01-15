@@ -57,8 +57,8 @@ try:
     for all in accPass:
         print ('all : ' + all)
         outfile.write(str(all)+'\n')
-except:
-    print ('Something bad happened .. Saving progress ..')
+except Exception as e:
+    print(f"Something bad happened: {e}. Saving progress...")
     for all in accPass:
         outfile.write(str(all)+'\n')
     
